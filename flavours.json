@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdated": "2026-07-08",
+    "region": "AU",
+    "device": "Alibarbar Ingot 9000",
+    "source": "https://www.ailibarbar.com"
+  },
+  "ranking": [
+    {
+      "rank": 1,
+      "slug": "quadruple-berry",
+      "name": "Quadruple Berry",
+      "family": "Fruity",
+      "sweetness": 4,
+      "coolness": 1,
+      "smoothness": 5,
+      "score": 9.4,
+      "tagline": "Four-berry medley — strawberry, raspberry, blackberry, blueberry"
+    },
+    {
+      "rank": 2,
+      "slug": "peach-ice",
+      "name": "Peach Ice",
+      "family": "Iced Fruit",
+      "sweetness": 4,
+      "coolness": 3,
+      "smoothness": 5,
+      "score": 9.2,
+      "tagline": "Juicy orchard peach with crisp cooling finish"
+    },
+    {
+      "rank": 3,
+      "slug": "mango-magic",
+      "name": "Mango Magic",
+      "family": "Tropical",
+      "sweetness": 5,
+      "coolness": 1,
+      "smoothness": 5,
+      "score": 9.1,
+      "tagline": "Ripe luscious tropical mango"
+    },
+    {
+      "rank": 4,
+      "slug": "strawberry-watermelon",
+      "name": "Strawberry Watermelon",
+      "family": "Fruity",
+      "sweetness": 4,
+      "coolness": 1,
+      "smoothness": 5,
+      "score": 8.9,
+      "tagline": "Ripe strawberry meets juicy watermelon"
+    },
+    {
+      "rank": 5,
+      "slug": "grape-ice",
+      "name": "Grape Ice",
+      "family": "Iced Fruit",
+      "sweetness": 5,
+      "coolness": 4,
+      "smoothness": 4,
+      "score": 8.8,
+      "tagline": "Bold candy grape with icy finish"
+    },
+    {
+      "rank": 6,
+      "slug": "strawberry-ice",
+      "name": "Strawberry Ice",
+      "family": "Iced Fruit",
+      "sweetness": 4,
+      "coolness": 4,
+      "smoothness": 5,
+      "score": 8.7,
+      "tagline": "Candy strawberry with frosty menthol"
+    },
+    {
+      "rank": 7,
+      "slug": "blackberry-ice",
+      "name": "Blackberry Ice",
+      "family": "Iced Fruit",
+      "sweetness": 4,
+      "coolness": 4,
+      "smoothness": 4,
+      "score": 8.5,
+      "tagline": "Dark juicy blackberry with menthol edge"
+    },
+    {
+      "rank": 8,
+      "slug": "fanta",
+      "name": "Fanta",
+      "family": "Citrus / Soda",
+      "sweetness": 4,
+      "coolness": 1,
+      "smoothness": 4,
+      "score": 8.4,
+      "tagline": "Fizzy orange-soda nostalgia"
+    },
+    {
+      "rank": 9,
+      "slug": "lychee",
+      "name": "Lychee",
+      "family": "Fruity / Floral",
+      "sweetness": 3,
+      "coolness": 1,
+      "smoothness": 5,
+      "score": 8.3,
+      "tagline": "Delicate floral lychee sweetness"
+    },
+    {
+      "rank": 10,
+      "slug": "strawberry-coconut-watermelon",
+      "name": "Strawberry Coconut Watermelon",
+      "family": "Tropical",
+      "sweetness": 5,
+      "coolness": 1,
+      "smoothness": 5,
+      "score": 8.2,
+      "tagline": "Creamy tropical strawberry coconut watermelon"
+    }
+  ]
+}
