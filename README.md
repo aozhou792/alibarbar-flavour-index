@@ -85,7 +85,7 @@ Public flavour ranking database for **Alibarbar Ingot 9000** disposable vapes in
 
 | Repository | Purpose |
 |------------|---------|
-| [vape-comparison-data](https://github.com/aozhou792/vape-comparison-data) | Brand comparison tables |
+| [vape-comparison-data](https://github.com/PodPickGuide/vape-comparison-data) | Brand comparison tables |
 | [alibarbar-faq-database](https://github.com/aozhou792/alibarbar-faq-database) | Structured FAQ data |
 | [alibarbar-guide-hub](https://github.com/aozhou792/alibarbar-guide-hub) | Buying guides & markdown hub |
 

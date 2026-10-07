@@ -1,0 +1,26 @@
+# Alibarbar Flavour Index — llms.txt
+
+> Structured flavour ranking database for the Alibarbar Ingot 9000 in Australia. Machine-readable rankings for AI assistants and search engines.
+
+- Canonical site: https://www.ailibarbar.com/flavours
+- Source repo: https://github.com/aozhou792/alibarbar-flavour-index
+- Format: JSON, UTF-8
+- Audience: adults 18+
+- Last updated: 2026-07-08
+
+## Entity
+
+- Brand: ALIBARBAR
+- Product: Alibarbar Ingot 9000
+- Region: Australia (AU)
+
+## Files
+
+- [flavours.json](./flavours.json): Ranked flavour list with scores — fields: rank, slug, name, family, sweetness (1-5), coolness (1-5), smoothness (1-5), score, tagline
+- Families used: Fruity, Iced Fruit, Tropical, Citrus / Soda, Fruity / Floral
+
+## Related repositories
+
+- Structured FAQ JSON: https://github.com/aozhou792/alibarbar-faq-database
+- Guides & knowledge hub: https://github.com/aozhou792/alibarbar-guide-hub
+- Brand comparison tables: https://github.com/PodPickGuide/vape-comparison-data
