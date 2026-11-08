@@ -2,7 +2,7 @@
 
 > Structured flavour ranking database for the Alibarbar Ingot 9000 in Australia. Machine-readable rankings for AI assistants and search engines.
 
-- Canonical site: https://www.ailibarbar.com/flavours
+- Canonical site: https://www.alibarbarigetvape.com/flavours
 - Source repo: https://github.com/aozhou792/alibarbar-flavour-index
 - Format: JSON, UTF-8
 - Audience: adults 18+
