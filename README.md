@@ -9,7 +9,7 @@ Public flavour ranking database for **Alibarbar Ingot 9000** disposable vapes in
 | **Region** | Australia (en-AU) |
 | **Device** | Alibarbar Ingot 9000 |
 | **Ranking Method** | Editorial score (taste profile, popularity, versatility) |
-| **Sources** | [Alibarbar Australia](https://www.ailibarbar.com), in-house tasting notes, customer feedback |
+| **Sources** | [Alibarbar Australia](https://www.alibarbarigetvape.com), in-house tasting notes, customer feedback |
 
 ---
 
@@ -89,7 +89,7 @@ Public flavour ranking database for **Alibarbar Ingot 9000** disposable vapes in
 | [alibarbar-faq-database](https://github.com/aozhou792/alibarbar-faq-database) | Structured FAQ data |
 | [alibarbar-guide-hub](https://github.com/aozhou792/alibarbar-guide-hub) | Buying guides & markdown hub |
 
-**Shop:** https://www.ailibarbar.com/flavours
+**Shop:** https://www.alibarbarigetvape.com/flavours
 
 ---
 
